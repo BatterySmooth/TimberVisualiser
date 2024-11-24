@@ -1,0 +1,14 @@
+{
+  "name": "com.battery.timber-visualiser",
+  "displayName": "TimberVisualiser",
+  "version": "2.1.0",
+  "description": "Visualisation tools for Timberborn",
+  "dependencies": {
+    "com.emka.timberborn-harmony": "https://github.com/eMkaQQ/timberborn-harmony.git"
+  },
+  "author": {
+    "name": "Battery Smooth",
+    "url": "https://github.com/BatterySmooth"
+  },
+  "license": "MIT"
+}
