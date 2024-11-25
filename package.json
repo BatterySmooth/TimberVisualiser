@@ -3,6 +3,9 @@
   "displayName": "TimberVisualiser",
   "version": "2.1.0",
   "description": "Visualisation tools for Timberborn",
+  "files": [
+    "Data"
+  ],
   "dependencies": {
     "com.emka.timberborn-harmony": "https://github.com/eMkaQQ/timberborn-harmony.git"
   },
