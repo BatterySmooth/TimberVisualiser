@@ -1,0 +1,9 @@
+{
+  "name": "com.battery.timber-visualiser",
+  "version": "2.1.0",
+  "displayName": "TimberVisualiser",
+  "description": "Visualisation tools for Timberborn",
+  "dependencies": {
+    "com.emka.timberborn-harmony": "https://github.com/eMkaQQ/timberborn-harmony.git"
+  }
+}
