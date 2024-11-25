@@ -3,9 +3,6 @@
   "displayName": "TimberVisualiser",
   "version": "2.1.0",
   "description": "Visualisation tools for Timberborn",
-  "dependencies": {
-    "com.emka.timberborn-harmony": "git+https://github.com/eMkaQQ/timberborn-harmony.git#main"
-  },
   "author": {
     "name": "Battery Smooth",
     "url": "https://github.com/BatterySmooth"
